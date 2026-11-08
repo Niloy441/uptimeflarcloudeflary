@@ -1,0 +1,8 @@
+name = "uptimeflarcloudeflary"
+compatibility_date = "2025-04-02"
+compatibility_flags = [ "nodejs_compat" ]
+
+[[d1_databases]]
+binding = "UPTIMEFLARE_D1"
+database_name = "uptimeflare_d1"
+database_id = "f852e798-e5c8-45e5-974b-500fe7886c1f"
